@@ -1,2 +1,2 @@
 # DIYHOME
-this is my frist web project
+this is my first web project
